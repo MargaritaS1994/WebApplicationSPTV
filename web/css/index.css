@@ -1,0 +1,17 @@
+.bg-color-container{
+    background-color: lemonchiffon;
+}
+.border-container{
+    border: 2px solid #e2bc6a;
+}
+.bg-list{
+    background: #ffe08c;
+}
+.list-elements{
+    font-size: 1.2em;
+    width: 100%;
+    padding: 2px;
+}
+.margin-container-center{
+    margin: 0 auto;
+}
